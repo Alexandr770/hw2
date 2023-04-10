@@ -1,6 +1,5 @@
-let a = 10;
-let b = 2;
-alert(a + b);
-alert(a - b);
-alert(a * b);
-alert(a / b)
+let a = 2;
+let b = 5;
+let result = a ** b;
+alert (32);
+
