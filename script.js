@@ -1,5 +1,5 @@
-let a = 2;
-let b = 5;
-let result = a ** b;
-alert (32);
+let a = 9;
+let b = 2;
+console.log(a/b);
+alert (4.5);
 
