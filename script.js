@@ -1,7 +1,7 @@
-let info = prompt('Какую информацию хотите узнать о пользователе?');
+let userName = prompt('Name?');
 const user = {
-    age: '18'
+    Name: 'Саша'
 }
-alert(user[info]);
+alert(Привет, Саша);
 
 
