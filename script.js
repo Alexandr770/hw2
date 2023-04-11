@@ -1,11 +1,2 @@
-const user = {
-  name: 'Саша'
-}
+const user = ['city of residence'] = 'Самара'
 
-const user = {
-  age: '18'  
-}
-
-const userisAdmin = {
-   Boolean: true 
-}
