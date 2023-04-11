@@ -1,4 +1,2 @@
-const user = {
-    height: '70in'
-  }
+const user = 'Самара'
 
