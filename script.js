@@ -1,3 +1,11 @@
-let age = (prompt('Сколько Вам лет?'));
-alert(prompt);
+const user = {
+  name: 'Саша'
+}
 
+const user = {
+  age: '18'  
+}
+
+const userisAdmin = {
+   Boolean: true 
+}
