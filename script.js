@@ -1,2 +1,4 @@
-const user = ['city of residence'] = 'Самара'
+const user = {
+    height: '70in'
+  }
 
