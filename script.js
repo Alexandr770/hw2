@@ -1,5 +1,1 @@
-const user = {
-    name: "Aleksandr",
-    age: 18,
-    isAdmin: true,
-  }
+ user['city of residence'] = 'Самара'
